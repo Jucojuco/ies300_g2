@@ -2,10 +2,22 @@
 Repositório Destinado ao desenvolvimento do projeto do grupo 2 de IES300 do 1° semestre de 2022 do curso ADS noturno na Fatec-SP
 
 ## Informações gerais:
+### Diretrizes
+- Projeto tem por objetivo a criação de um jogo online de dominó;
+- Gerente do Projeto: Makar Plakhotnyk
+- Cliente: Victor Antonio Troitino
+- A comunicação com o cliente deverá ser concentrada com o GP do grupo;
+- O grupo deverá apresentar os seguintes entregáveis:
+    1. Termo de Abertura do Projeto
+    2. Cronograma
+    3. Protótipo
+    4. Jogo funcional
+
+### Links úteis
 - Anotações gerais e diretrizes podem ser acessadas no nosso [Drive](https://drive.google.com/drive/folders/1DVxo9Lo40z_1H5Ji5yW0tECkVbxeNQDY)
 - Alinhamentos e reuniões deverão ser agendados conforme disponibilidade expressada no [when2meet](https://www.when2meet.com/?14711133-Xnnj6)
 
-## Requisitos:
+## Requisitos do repositório
 - Python versão 3.9 instalado na sua máquina (para detalhes acessar [esse link](https://www.python.org/downloads/))
 - Uma chave SSH cadastrada no seu ambient local para utilizar o gerenciador git (instruções [aqui](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent))
 
