@@ -1,0 +1,8 @@
+## Adicione aqui uma nova linha com os pacotes necessários para o desenvolvimento
+# Verifique se já possui os seguintes pré-requisitos:
+# Python Versão 3.9
+# Anaconda3
+
+wheel
+jupyter notebook
+
